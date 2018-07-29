@@ -1,0 +1,32 @@
+{
+  "name": "express-web-api",
+  "version": "1.0.0",
+  "description": "this is express boilerplate contains express, typescript, mongodb, nodemon, gulp, bodyparser, built on top of node environment ",
+  "main": "/",
+  "scripts": {
+    "test": "on nodejs, run this script: 'gulp' then on browser: http://localhost:8000/ or http://localhost:8000/test post or get"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "node",
+    "gulp",
+    "mongodb",
+    "bodyparser",
+    "nodemon"
+  ],
+  "author": "KT",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.3.5",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-prettify": "^0.1.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.1.6"
+  }
+}

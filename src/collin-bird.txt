@@ -1,0 +1,1242 @@
+<!doctype html>
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Bird definition and meaning | Collins English Dictionary</title>
+<meta name="_csrf" content="53f3a1bb-373d-40de-a63c-b363c93b358e"/>
+<meta name="_csrf_header" content="X-XSRF-TOKEN"/
+>
+<meta name="_csrf_parameter" content="_csrf"/>
+<meta name="title" content="Bird definition and meaning | Collins English Dictionary">
+<meta property="og:title" content="Bird definition and meaning | Collins English Dictionary" />
+<meta property="og:image" content="https://www.collinsdictionary.com/us/external/images/social/logo-ENGLISH.png" />
+<meta property="og:description" content="Bird definition: A bird is a creature with feathers and wings. Female birds lay eggs . Most birds can fly... | Meaning, pronunciation, translations and examples" />
+<meta name="description" content="Bird definition: A bird is a creature with feathers and wings. Female birds lay eggs . Most birds can fly... | Meaning, pronunciation, translations and examples" />
+<meta property="og:url" content="https://www.collinsdictionary.com/us/dictionary/english/bird" />
+<link rel="canonical" href="https://www.collinsdictionary.com/us/dictionary/english/bird" />
+<link rel="alternate" hreflang="x-default" href="https://www.collinsdictionary.com/dictionary/english/bird" />
+<link rel="alternate" hreflang="en" href="https://www.collinsdictionary.com/dictionary/english/bird" />
+<link rel="alternate" hreflang="en-US" href="https://www.collinsdictionary.com/us/dictionary/english/bird" />
+<link rel="alternate" hreflang="it" href="https://www.collinsdictionary.com/it/dizionario/inglese/bird" />
+<link rel="alternate" hreflang="de" href="https://www.collinsdictionary.com/de/worterbuch/englisch/bird" />
+<link rel="alternate" hreflang="es" href="https://www.collinsdictionary.com/es/diccionario/ingles/bird" />
+<link rel="alternate" hreflang="pt" href="https://www.collinsdictionary.com/pt/dictionary/english/bird" />
+<link rel="alternate" hreflang="hi" href="https://www.collinsdictionary.com/hi/dictionary/english/bird" />
+<link rel="alternate" hreflang="zh" href="https://www.collinsdictionary.com/zh/dictionary/english/bird" />
+<link rel="amphtml" href="https://www.collinsdictionary.com/us/amp/english/bird">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.collinsdictionary.com/us/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="https://www.collinsdictionary.com/us/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://www.collinsdictionary.com/us/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="https://www.collinsdictionary.com/us/manifest.json" />
+<link rel="mask-icon" href="https://www.collinsdictionary.com/us/safari-pinned-tab.svg" color="#c62f24" />
+<link rel="shortcut icon" type="image/x-icon" href="https://www.collinsdictionary.com/us/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://www.collinsdictionary.com/us/opensearch.xml" title="Collins Search" />
+<meta name="apple-mobile-web-app-title" content="Collins Dictionaries" />
+<meta name="msapplication-config" content="https://www.collinsdictionary.com/us/browserconfig.xml" />
+<meta name="theme-color" content="#100d08" />
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1927569-11', 'auto');
+ga('set', 'dimension1', 'more');
+ga('send', 'pageview');
+</script>
+<link type="text/css" rel="stylesheet" media="screen" href="/us/common.css?version=3.1.171" />
+<script type='text/javascript'>
+var pbHdSlots = [
+{code: 'ad_btmslot_a', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776184' }},
+{ bidder: 'indexExchange', params: { id: '1', siteID: '195394' }},
+{ bidder: 'appnexus', params: { placementId: '11654352' }},
+{ bidder: 'sovrn', params: { tagid: '346690' }},
+{ bidder: 'aol', params: { placement: '6487004', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632392', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595722' }}]},
+{code: 'ad_leftslot_b', sizes: [160, 600],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776194' }},
+{ bidder: 'indexExchange', params: { id: '3', siteID: '203456' }},
+{ bidder: 'appnexus', params: { placementId: '11654382' }},
+{ bidder: 'sovrn', params: { tagid: '346700' }},
+{ bidder: 'aol', params: { placement: '6487028', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632412', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '160X600', cp: '561262', ct: '595726' }}]},
+{code: 'ad_topslot', sizes: [728, 90],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776236' }},
+{ bidder: 'indexExchange', params: { id: '18', siteID: '203471' }},
+{ bidder: 'appnexus', params: { placementId: '11654392' }},
+{ bidder: 'sovrn', params: { tagid: '346695' }},
+{ bidder: 'aol', params: { placement: '6487014', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632383', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '728x90', cp: '561262', ct: '595753' }}]},
+{code: 'ad_rightslot', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776232' }},
+{ bidder: 'indexExchange', params: { id: '17', siteID: '203470' }},
+{ bidder: 'appnexus', params: { placementId: '11654391' }},
+{ bidder: 'sovrn', params: { tagid: '387230' }},
+{ bidder: 'aol', params: { placement: '6487005', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632393', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595752' }}]},
+{code: 'ad_rightslot2', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776234' }},
+{ bidder: 'indexExchange', params: { id: '20', siteID: '215897' }},
+{ bidder: 'appnexus', params: { placementId: '11992652' }},
+{ bidder: 'sovrn', params: { tagid: '507652' }},
+{ bidder: 'aol', params: { placement: '6537318', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4717735', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '604372' }}]},
+{code: 'ad_contentslot_1', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776202' }},
+{ bidder: 'indexExchange', params: { id: '5', siteID: '203458' }},
+{ bidder: 'appnexus', params: { placementId: '11654384' }},
+{ bidder: 'sovrn', params: { tagid: '435630' }},
+{ bidder: 'aol', params: { placement: '6487009', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632407', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595728' }}]},
+{code: 'ad_contentslot_2', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776220' }},
+{ bidder: 'indexExchange', params: { id: '7', siteID: '203460' }},
+{ bidder: 'appnexus', params: { placementId: '11654385' }},
+{ bidder: 'sovrn', params: { tagid: '446924' }},
+{ bidder: 'aol', params: { placement: '6487013', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632382', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595732' }}]},
+{code: 'ad_contentslot_3', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776222' }},
+{ bidder: 'indexExchange', params: { id: '9', siteID: '203462' }},
+{ bidder: 'appnexus', params: { placementId: '11654387' }},
+{ bidder: 'sovrn', params: { tagid: '447649' }},
+{ bidder: 'aol', params: { placement: '6487019', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632400', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595736' }}]}];
+var pbDesktopSlots = [
+{code: 'ad_btmslot_a', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776184' }},
+{ bidder: 'indexExchange', params: { id: '1', siteID: '195394' }},
+{ bidder: 'appnexus', params: { placementId: '11654352' }},
+{ bidder: 'sovrn', params: { tagid: '346690' }},
+{ bidder: 'aol', params: { placement: '6487004', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632392', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595722' }}]},
+{code: 'ad_leftslot_a', sizes: [160, 600],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776194' }},
+{ bidder: 'indexExchange', params: { id: '3', siteID: '203456' }},
+{ bidder: 'appnexus', params: { placementId: '11654382' }},
+{ bidder: 'sovrn', params: { tagid: '346700' }},
+{ bidder: 'aol', params: { placement: '6487028', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632412', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '160X600', cp: '561262', ct: '595726' }}]},
+{code: 'ad_topslot', sizes: [728, 90],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776236' }},
+{ bidder: 'indexExchange', params: { id: '18', siteID: '203471' }},
+{ bidder: 'appnexus', params: { placementId: '11654392' }},
+{ bidder: 'sovrn', params: { tagid: '346695' }},
+{ bidder: 'aol', params: { placement: '6487014', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632383', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '728x90', cp: '561262', ct: '595753' }}]},
+{code: 'ad_rightslot', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776232' }},
+{ bidder: 'indexExchange', params: { id: '17', siteID: '203470' }},
+{ bidder: 'appnexus', params: { placementId: '11654391' }},
+{ bidder: 'sovrn', params: { tagid: '387230' }},
+{ bidder: 'aol', params: { placement: '6487005', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632393', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595752' }}]},
+{code: 'ad_rightslot2', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776234' }},
+{ bidder: 'indexExchange', params: { id: '20', siteID: '215897' }},
+{ bidder: 'appnexus', params: { placementId: '11992652' }},
+{ bidder: 'sovrn', params: { tagid: '507652' }},
+{ bidder: 'aol', params: { placement: '6537318', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4717735', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '604372' }}]},
+{code: 'ad_contentslot_1', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776202' }},
+{ bidder: 'indexExchange', params: { id: '5', siteID: '203458' }},
+{ bidder: 'appnexus', params: { placementId: '11654384' }},
+{ bidder: 'sovrn', params: { tagid: '435630' }},
+{ bidder: 'aol', params: { placement: '6487009', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632407', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595728' }}]},
+{code: 'ad_contentslot_2', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776220' }},
+{ bidder: 'indexExchange', params: { id: '7', siteID: '203460' }},
+{ bidder: 'appnexus', params: { placementId: '11654385' }},
+{ bidder: 'sovrn', params: { tagid: '446924' }},
+{ bidder: 'aol', params: { placement: '6487013', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632382', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595732' }}]},
+{code: 'ad_contentslot_3', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776222' }},
+{ bidder: 'indexExchange', params: { id: '9', siteID: '203462' }},
+{ bidder: 'appnexus', params: { placementId: '11654387' }},
+{ bidder: 'sovrn', params: { tagid: '447649' }},
+{ bidder: 'aol', params: { placement: '6487019', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632400', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595736' }}]}];
+var pbTabletSlots = [
+{code: 'ad_btmslot_a', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776184' }},
+{ bidder: 'indexExchange', params: { id: '1', siteID: '195394' }},
+{ bidder: 'appnexus', params: { placementId: '11654352' }},
+{ bidder: 'sovrn', params: { tagid: '346690' }},
+{ bidder: 'aol', params: { placement: '6487004', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632392', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595722' }}]},
+{code: 'ad_topslot', sizes: [728, 90],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776236' }},
+{ bidder: 'indexExchange', params: { id: '18', siteID: '203471' }},
+{ bidder: 'appnexus', params: { placementId: '11654392' }},
+{ bidder: 'sovrn', params: { tagid: '346695' }},
+{ bidder: 'aol', params: { placement: '6487014', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632383', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '728x90', cp: '561262', ct: '595753' }}]},
+{code: 'ad_contentslot_1', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776202' }},
+{ bidder: 'indexExchange', params: { id: '5', siteID: '203458' }},
+{ bidder: 'appnexus', params: { placementId: '11654384' }},
+{ bidder: 'sovrn', params: { tagid: '435630' }},
+{ bidder: 'aol', params: { placement: '6487009', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632407', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595728' }}]},
+{code: 'ad_contentslot_2', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776220' }},
+{ bidder: 'indexExchange', params: { id: '7', siteID: '203460' }},
+{ bidder: 'appnexus', params: { placementId: '11654385' }},
+{ bidder: 'sovrn', params: { tagid: '446924' }},
+{ bidder: 'aol', params: { placement: '6487013', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632382', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595732' }}]},
+{code: 'ad_contentslot_3', sizes: [300, 250],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162040', zoneId: '776222' }},
+{ bidder: 'indexExchange', params: { id: '9', siteID: '203462' }},
+{ bidder: 'appnexus', params: { placementId: '11654387' }},
+{ bidder: 'sovrn', params: { tagid: '447649' }},
+{ bidder: 'aol', params: { placement: '6487019', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632400', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595736' }}]}];
+var pbMobileSlots = [
+{code: 'ad_btmslot_a', sizes: [[300, 250], [320, 50], [300, 50]],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162052', zoneId: '776360' }},
+{ bidder: 'indexExchange', params: { id: '2', siteID: '203455' }},
+{ bidder: 'appnexus', params: { placementId: '11654395' }},
+{ bidder: 'sovrn', params: { tagid: '446387' }},
+{ bidder: 'sovrn', params: { tagid: '446386' }},
+{ bidder: 'aol', params: { placement: '6487011', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632405', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6486999', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632404', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6486997', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632395', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595723' }},
+{ bidder: 'pulsepoint', params: { cf: '300X50', cp: '561262', ct: '595724' }},
+{ bidder: 'pulsepoint', params: { cf: '320X50', cp: '561262', ct: '595725' }}]},
+{code: 'ad_topslot', sizes: [320, 50],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162052', zoneId: '776376' }},
+{ bidder: 'indexExchange', params: { id: '19', siteID: '203472' }},
+{ bidder: 'appnexus', params: { placementId: '11654402' }},
+{ bidder: 'sovrn', params: { tagid: '387231' }},
+{ bidder: 'aol', params: { placement: '6487027', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632411', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '320x50', cp: '561262', ct: '595754' }}]},
+{code: 'ad_contentslot_1', sizes: [[300, 250], [320, 50], [300, 50]],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162052', zoneId: '776362' }},
+{ bidder: 'indexExchange', params: { id: '6', siteID: '203459' }},
+{ bidder: 'appnexus', params: { placementId: '11654396' }},
+{ bidder: 'sovrn', params: { tagid: '446389' }},
+{ bidder: 'sovrn', params: { tagid: '446388' }},
+{ bidder: 'aol', params: { placement: '6487023', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632413', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487016', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632401', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487017', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632396', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595729' }},
+{ bidder: 'pulsepoint', params: { cf: '300X50', cp: '561262', ct: '595730' }},
+{ bidder: 'pulsepoint', params: { cf: '320X50', cp: '561262', ct: '595731' }}]},
+{code: 'ad_contentslot_2', sizes: [[300, 250], [320, 50], [300, 50]],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162052', zoneId: '776364' }},
+{ bidder: 'indexExchange', params: { id: '8', siteID: '203461' }},
+{ bidder: 'appnexus', params: { placementId: '11654397' }},
+{ bidder: 'sovrn', params: { tagid: '446927' }},
+{ bidder: 'sovrn', params: { tagid: '446925' }},
+{ bidder: 'aol', params: { placement: '6487001', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632387', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487024', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632403', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487000', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632394', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595733' }},
+{ bidder: 'pulsepoint', params: { cf: '300X50', cp: '561262', ct: '595734' }},
+{ bidder: 'pulsepoint', params: { cf: '320X50', cp: '561262', ct: '595735' }}]},
+{code: 'ad_contentslot_3', sizes: [[300, 250], [320, 50], [300, 50]],
+bids: [{ bidder: 'rubicon', params: { accountId: '17282', siteId: '162052', zoneId: '776366' }},
+{ bidder: 'indexExchange', params: { id: '10', siteID: '203463' }},
+{ bidder: 'appnexus', params: { placementId: '11654398' }},
+{ bidder: 'sovrn', params: { tagid: '447651' }},
+{ bidder: 'sovrn', params: { tagid: '447650' }},
+{ bidder: 'aol', params: { placement: '6487007', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632398', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487010', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632408', network: '11136.1' }},
+{ bidder: 'aol', params: { placement: '6487012', network: '4832.1', server: 'adserver.adtech.de' }},
+{ bidder: 'aol', params: { placement: '4632381', network: '11136.1' }},
+{ bidder: 'pulsepoint', params: { cf: '300X250', cp: '561262', ct: '595737' }},
+{ bidder: 'pulsepoint', params: { cf: '300X50', cp: '561262', ct: '595738' }},
+{ bidder: 'pulsepoint', params: { cf: '320X50', cp: '561262', ct: '595739' }}]}];
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+const customGranularity = {
+'buckets': [{
+'min': 0,
+'max': 3,
+'increment': 0.01,
+'cap': true
+},{
+'min': 3.05,
+'max': 8,
+'increment': 0.05,
+'cap': true
+},{
+'min': 8.50,
+'max': 30,
+'increment': 0.5,
+'cap': true
+},{
+'min': 31,
+'max': 36,
+'increment': 1,
+'cap': true
+}]
+};
+pbjs.que.push(function() {
+pbjs.setConfig({
+priceGranularity: customGranularity,
+bidderSequence: "fixed"
+});
+});
+</script>
+<script type="text/javascript" src="/us/required.js?version=3.1.171"></script>
+<script type='text/javascript' async>
+var pbAdUnits = getPrebidSlots(curResolution);
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+googletag.pubads().disableInitialLoad();
+});
+addPrebidAdUnits(pbAdUnits);
+setTimeout(sendPrebidServerRequest, PREBID_TIMEOUT);
+var dfpSlots = {};
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.cmd.push(function() {
+var mapping_btmslot_a = googletag.sizeMapping().addSize([745, 0], [300, 250]).addSize([0, 0], [[300, 250], [320, 50], [300, 50]]).build();
+dfpSlots['btmslot_a'] = googletag.defineSlot('/20182162/btmslot', [300, 250], 'ad_btmslot_a').defineSizeMapping(mapping_btmslot_a).setTargeting('vp', 'btm').setTargeting('hp', 'center').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+var mapping_leftslot_a = googletag.sizeMapping().addSize([1223, 0], []).addSize([932, 0], [160, 600]).addSize([0, 0], []).build();
+dfpSlots['leftslot_a'] = googletag.defineSlot('/20182162/leftslot', [160, 600], 'ad_leftslot_a').defineSizeMapping(mapping_leftslot_a).setTargeting('vp', 'mid').setTargeting('hp', 'left').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+var mapping_leftslot_b = googletag.sizeMapping().addSize([1223, 0], [160, 600]).addSize([0, 0], []).build();
+dfpSlots['leftslot_b'] = googletag.defineSlot('/20182162/leftslot', [], 'ad_leftslot_b').defineSizeMapping(mapping_leftslot_b).setTargeting('vp', 'mid').setTargeting('hp', 'left').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+var mapping_topslot = googletag.sizeMapping().addSize([745, 0], [728, 90]).addSize([0, 0], [320, 50]).build();
+dfpSlots['topslot'] = googletag.defineSlot('/20182162/topslot', [728, 90], 'ad_topslot').defineSizeMapping(mapping_topslot).setTargeting('vp', 'top').setTargeting('hp', 'center').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+dfpSlots['topslot'].renderCallback = function(e) { topslotCallback(e) };var mapping_rightslot = googletag.sizeMapping().addSize([932, 0], [300, 250]).addSize([0, 0], []).build();
+dfpSlots['rightslot'] = googletag.defineSlot('/20182162/rightslot', [300, 250], 'ad_rightslot').defineSizeMapping(mapping_rightslot).setTargeting('vp', 'top').setTargeting('hp', 'right').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+var mapping_rightslot2 = googletag.sizeMapping().addSize([932, 0], [300, 250]).addSize([0, 0], []).build();
+dfpSlots['rightslot2'] = googletag.defineSlot('/20182162/rightslot2', [300, 250], 'ad_rightslot2').defineSizeMapping(mapping_rightslot2).setTargeting('vp', 'btm').setTargeting('hp', 'right').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+var mapping_contentslot = googletag.sizeMapping().addSize([745, 0], [300, 250]).addSize([0, 0], [[300, 250], [320, 50], [300, 50]]).build();
+dfpSlots['contentslot_1'] = googletag.defineSlot('/20182162/mpuslot', [300, 250], 'ad_contentslot_1').defineSizeMapping(mapping_contentslot).setTargeting('hcd_si', 1).setTargeting('vp', 'mid').setTargeting('hp', 'center').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+dfpSlots['contentslot_2'] = googletag.defineSlot('/20182162/mpuslot', [300, 250], 'ad_contentslot_2').defineSizeMapping(mapping_contentslot).setTargeting('hcd_si', 2).setTargeting('vp', 'mid').setTargeting('hp', 'center').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+dfpSlots['contentslot_3'] = googletag.defineSlot('/20182162/mpuslot', [300, 250], 'ad_contentslot_3').defineSizeMapping(mapping_contentslot).setTargeting('hcd_si', 3).setTargeting('vp', 'mid').setTargeting('hp', 'center').setTargeting('ad_group', Adomik.randomAdGroup()).addService(googletag.pubads());
+googletag.pubads().addEventListener('slotRenderEnded', function(event) { if (!event.isEmpty && event.slot.renderCallback) { event.slot.renderCallback(event); } });
+googletag.pubads().setTargeting("hcd_l", "en-US");
+googletag.pubads().setTargeting("hcd_pc", "dictionary");
+googletag.pubads().setTargeting("hcd_pt", "entry");
+googletag.pubads().setTargeting("hcd_dc", "english");
+googletag.pubads().setTargeting("hcd_ei", "bird");
+googletag.pubads().setCategoryExclusion('wprod'); googletag.pubads().setCategoryExclusion('lcp'); 
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs(false);
+googletag.enableServices();
+});
+</script>
+<script type="text/javascript">
+var pageDictCode = "english";
+var isNormalScreen = true;
+</script>
+<style type="text/css">
+body.context-language-ENGLISH header{
+background-color:#100d08;
+}
+</style>
+</head>
+<body class=" definition context-language-ENGLISH context-dataset-english dfp-collapse-false stickyHeader ">
+<header class="sticky">
+<div class='extra res_hos'>
+<div class='quickLinks'>
+<a class="current" href="https://www.collinsdictionary.com/us/dictionary/english" title="English Dictionary">English Dictionary</a>
+<span>|</span>
+<a href="https://video.collinsdictionary.com/us/video" title="Video">Video</a>
+<span>|</span>
+<a href="https://www.collinsdictionary.com/us/dictionary/english-thesaurus" title="Synonyms and Antonyms">Thesaurus</a>
+<span>|</span>
+<a href="https://www.collinsdictionary.com/us/translator" title="Translate your text">Translator</a>
+<span>|</span>
+<a class="current" href="https://grammar.collinsdictionary.com/" title="COBUILD Grammar Patterns">COBUILD Grammar Patterns</a>
+<span>|</span>
+<a href="https://www.collinsdictionary.com/us/scrabble/" title="Find tips and tools for the Scrabble">Scrabble</a>
+<span>|</span>
+<a href="https://www.collinsdictionary.com/word-lovers-blog/new" title="Read the latest articles about Words">Blog</a>
+</div>
+<div class="userStatus">
+<i class='icon-globe'></i>
+<ul class="langs">
+<li class="curr_lang">American <i class="icon-caret-down carret_lang"></i></li>
+<li class="drop">
+<div class="this_page">This page in</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/dictionary/english/bird">
+English
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/it/dizionario/inglese/bird">
+Italiano
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/de/worterbuch/englisch/bird">
+Deutsch
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/es/diccionario/ingles/bird">
+Español
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/pt/dictionary/english/bird">
+Português
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/hi/dictionary/english/bird">
+हिंदी
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/zh/dictionary/english/bird">
+简体中文
+</a>
+</div>
+</li>
+</ul>
+<span>|</span>
+<i class='icon-user'></i>
+<a href="https://www.collinsdictionary.com/us/register">Sign Up <i class="icon-angle-right"></i></a>
+<span>|</span>
+<a href="https://www.collinsdictionary.com/us/login?returnTo=https://www.collinsdictionary.com/us/dictionary/english/bird">Log In <i class="icon-angle-right"></i></a>
+</div>
+</div>
+<div class='clear'></div>
+<div class='left res_hot res_hod res_hoh'>
+<a class="menuPanelOpenButton icon-bars icon-2x" title="Menu"></a>
+</div>
+<div class='left'>
+<a class='logo' href="https://www.collinsdictionary.com/us/" title="Go to the homepage">&nbsp;</a>
+</div>
+<div class='right res_hot res_hod res_hoh'>
+<a class='searchPanelButton icon-2x' title="Search"></a>
+</div>
+<form action="https://www.collinsdictionary.com/us/search/" class="search-form search-desktop">
+<div class='custom-select-label-container' style='float:left;'>
+<span class='custom-select-label res_hos' title="Select your dictionary">English</span><i class='icon-caret-down icon-fw'></i>
+</div>
+<button type="submit" class='search-submit'><i class='icon-search icon-fw' title="Search"></i></button>
+<button class='search-keyboard res_hos res_hot'><i class='icon-keyboard icon-fw'></i></button>
+<select name="dictCode" class='search-select custom-select autoc-dict'>
+<optgroup label="English">
+<option value='english' selected data-placeholder="English Dictionary">English</option>
+</optgroup>
+<optgroup label="Thesaurus">
+<option value='english-thesaurus' data-placeholder="English Thesaurus">English Thesaurus</option>
+<option value='word-lists' data-placeholder="English Word Lists">English Word Lists</option>
+<option value='american-thesaurus' data-placeholder="American Thesaurus">American Thesaurus</option>
+</optgroup>
+<optgroup label="Grammar">
+<option value='grammar' data-placeholder="COBUILD Grammar Patterns">Grammar</option>
+<option value='elt-grammar' data-placeholder="Easy Learning Grammar">Easy Learning</option>
+<option value='grammar-els' data-placeholder="Easy Learning Grammar Spanish">Easy Learning Spanish</option>
+<option value='grammar-elf' data-placeholder="Easy Learning Grammar French">Easy Learning French</option>
+<option value='grammar-elg' data-placeholder="Easy Learning Grammar German">Easy Learning German</option>
+<option value='grammar-eli' data-placeholder="Easy Learning Grammar Italian">Easy Learning Italian</option>
+</optgroup>
+<optgroup label="French">
+<option value='english-french' data-placeholder="English - French Dictionary">English - French</option>
+<option value='french-english' data-specialchar="à,â,ä,ç,è,é,ê,ë,î,ï,ô,ö" data-placeholder="French - English Dictionary">French - English</option>
+</optgroup>
+<optgroup label="German">
+<option value='english-german' data-placeholder="English - German Dictionary">English - German</option>
+<option value='german-english' data-specialchar="ä,ö,ü,ß" data-placeholder="German - English Dictionary">German - English</option>
+</optgroup>
+<optgroup label="Spanish">
+<option value='english-spanish' data-placeholder="English - Spanish Dictionary">English - Spanish</option>
+<option value='spanish-english' data-specialchar="á,é,í,ñ,ó,ú,ü" data-placeholder="Spanish - English Dictionary">Spanish - English</option>
+</optgroup>
+<optgroup label="Italian">
+<option value='english-italian' data-placeholder="English - Italian Dictionary">English - Italian</option>
+<option value='italian-english' data-specialchar="à,á,è,é,ì,í,ò,ó,ù,ú" data-placeholder="Italian - English Dictionary">Italian - English</option>
+</optgroup>
+<optgroup label="Chinese">
+<option value='english-chinese' data-placeholder="English - Chinese Dictionary">English - Chinese</option>
+<option value='chinese-english' data-placeholder="Chinese - English Dictionary">Chinese - English</option>
+</optgroup>
+<optgroup label="Portuguese">
+<option value='english-portuguese' data-placeholder="English - Portuguese Dictionary">English - Portuguese</option>
+<option value='portuguese-english' data-specialchar="ç,á,é,í,ó,ú,â,ê,ô,ã,õ,à" data-placeholder="Portuguese - English Dictionary">Portuguese - English</option>
+</optgroup>
+<optgroup label="Hindi">
+<option value='english-hindi' data-placeholder="English - Hindi Dictionary">English - Hindi</option>
+<option value='hindi-english' data-specialchar="क,ख,ग,घ,च,छ,ज,झ,ञ,ट,ठ,ड,ढ,ण,त,थ,द,ध,न,प,फ,ब,भ,म,य,र,ल,व,स,श,ष,ह,ड़,ळ,क्ष,ज्ञ,अ,आ,इ,ई,उ,ऊ,ए,ऐ,ओ,औ,अं,अ" data-placeholder="Hindi - English Dictionary">Hindi - English</option>
+</optgroup>
+</select>
+<div class='autoc-results'></div>
+<div class='search-input-container'>
+<input type="text" name="q" class="search-input autoc-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus />
+</div>
+<div class='custom-select-menu'></div>
+</form></header>
+<nav class='menuPanel'>
+<a class='menuPanelCloseButton icon-times icon-2x'></a>
+<div class='title'>Menu</div>
+<a class="current" href="https://www.collinsdictionary.com/us/dictionary/english" title="English Dictionary">English Dictionary</a>
+<a href="https://video.collinsdictionary.com/us/video" title="Video">Video</a>
+<a href="https://www.collinsdictionary.com/us/dictionary/english-thesaurus" title="Synonyms and Antonyms">Thesaurus</a>
+<a href="https://www.collinsdictionary.com/us/translator" title="Translate your text">Translator</a>
+<a href="https://grammar.collinsdictionary.com/" title="Accessible guide to grammar and punctuation">Grammar</a>
+<a href="https://www.collinsdictionary.com/us/scrabble/" title="Find tips and tools for the Scrabble">Scrabble</a>
+<a href="https://www.collinsdictionary.com/word-lovers-blog/new" title="Read the latest articles about Words">Blog</a>
+<ul class="langs">
+<li class="curr_lang">American <i class="icon-caret-down carret_lang"></i></li>
+<li class="drop">
+<div class="this_page">This page in</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/dictionary/english/bird">
+English
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/it/dizionario/inglese/bird">
+Italiano
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/de/worterbuch/englisch/bird">
+Deutsch
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/es/diccionario/ingles/bird">
+Español
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/pt/dictionary/english/bird">
+Português
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/hi/dictionary/english/bird">
+हिंदी
+</a>
+</div>
+<div class="other_lang">
+<a href="https://www.collinsdictionary.com/zh/dictionary/english/bird">
+简体中文
+</a>
+</div>
+</li>
+</ul>
+<a href="https://www.collinsdictionary.com/us/register">Sign Up <i class="icon-angle-right"></i></a>
+<a href="https://www.collinsdictionary.com/us/login?returnTo=https://www.collinsdictionary.com/us/dictionary/english/bird">Log In <i class="icon-angle-right"></i></a>
+</nav>
+<div class="menuOverlay"></div> <main>
+<div class='res_cell_left res_hos res_hot'>
+<div class="ac_leftslot_a sticky res_hoh res_hos"> <div id='ad_leftslot_a' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_leftslot_a'); });</script>
+</div>
+</div> <div class="ac_leftslot_b sticky res_hod res_hot res_hos"> <div id='ad_leftslot_b' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_leftslot_b'); });</script>
+</div>
+</div></div>
+<div class="dictionary">
+<div class="topslot_container"> <div id='ad_topslot' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_topslot'); });</script>
+</div>
+</div> <div class="res_cell_center" >
+<div class="definition_content res_cell_center_content">
+<h1 class="entry_title">Definition of 'bird'</h1>
+<div class="homograph-entry">
+<div class="page"> 
+<div class="dictionaries dictionary">
+<div class="dictionary Cob_Adv_US">
+<div class="dictentry">
+<div class="dictlink">
+<div class="content-box content-box-definition cobuild am" data-type-block="Learner" data-title-block="bird" data-num-block="" id="bird__5">
+<div class="content-box-header">
+<div class="word-frequency-container res_hos res_hot res_hod frenquency-title">
+<div class="label">Word Frequency</div>
+<span class="word-frequency-img" title="Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary" data-word="bird"
+data-band="4">
+<span class="level level1 roundRed "></span>
+<span class="level level2 roundRed "></span>
+<span class="level level3 roundRed "></span>
+<span class="level level4 roundRed "></span>
+<span class="level level5 "></span>
+</span>
+</div>
+<h2 class="h2_entry"><span class="orth">bird</span></h2>
+<span class="mini_h2"><span class="span"> (</span><span class="pron type-">b<span class="hi rend-u">ɜ</span>rd<span class="ptr hwd_sound type-hwd_sound"> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/en_/en_us/en_us_bird_1.mp3" data-lang="en_GB"></a>
+</span></span><span class="span">)</span></span>
+<a class="cobuild-logo res_hos" href="https://www.collinsdictionary.com/cobuild/" title="Powered by Cobuild" target="_blank" rel="noopener"></a>
+</div>
+<div class="socialButtons">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-facebook icon-facebook" title="Share this page on Facebook" onclick="ga('send', 'event', 'socialButtons', 'facebook');"></a
+><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird&via=collinsdict" target="_blank" rel="noopener" class="socialButtons-twitter icon-twitter" title="Share this page on Twitter" onclick="ga('send', 'event', 'socialButtons', 'twitter');"></a
+><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-google icon-google-plus" title="Share this page on Google+" onclick="ga('send', 'event', 'socialButtons', 'google');"></a
+>
+</div>
+<div class="content definitions cobuild am"><span class="form inflected_forms type-infl"><span class="var">Word forms: </span><span class="orth">birds</span></span><div class="hom"><span class="span sensenum">1.&nbsp;</span><span class="gramGrp"><span class="pos">countable noun</span></span><div class="sense">
+<div class="def">A <span class="hi rend-b">bird</span> is a creature with feathers and wings. Female birds lay eggs. Most birds can fly.
+</div>
+</div>
+</div>
+<div class="hom"><span class="span sensenum">2.&nbsp;</span><span class="xr"> <span class="lbl">See also </span> <a href="https://www.collinsdictionary.com/us/dictionary/english/early-bird" title="Definition of early bird" class="ref">early bird</a></span></div>
+<div class="hom"><span class="span sensenum">3.&nbsp;</span><div class="sense"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/birds-of-a-feather" title="Definition of birds of a feather" class="ref">birds of a feather</a></span></div>
+</div>
+<div class="hom"><span class="span sensenum">4.&nbsp;</span><div class="sense"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/a-bird-in-the-hand" title="Definition of a bird in the hand" class="ref">a bird in the hand</a></span></div>
+</div>
+<div class="hom"><span class="span sensenum">5.&nbsp;</span><div class="sense"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/little-bird" title="Definition of little bird" class="ref">little bird</a></span></div>
+</div>
+<div class="hom"><span class="span sensenum">6.&nbsp;</span><div class="sense"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/to-kill-two-birds-with-one-stone" title="Definition of to kill two birds with one stone" class="ref">to kill two birds with one stone</a></span></div>
+</div>
+<div class="div copyright"><span class="i">COBUILD Advanced English Dictionary</span>. Copyright © HarperCollins Publishers
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="videos" class="content-box content-box-videos"
+data-type-block="Video"
+>
+<div class="content-box-header">
+<h2 class="h2_entry">Video: pronunciation of 'bird'</h2>
+</div>
+<div class="video">
+<iframe class="entryVideo" src="https://www.youtube.com/embed/G8wzDKKp-bk?wmode=opaque&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="dictionary Large_US_Webster">
+<div class="dictentry">
+<div class="dictlink">
+<div class="content-box content-box-definition american" data-type-block="American" data-title-block="bird" data-num-block="" id="bird__4">
+<div class="content-box-header">
+<div class="word-frequency-container res_hos res_hot res_hod frenquency-title">
+<div class="label">Word Frequency</div>
+<span class="word-frequency-img" title="Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary" data-word="bird"
+data-band="4">
+<span class="level level1 roundRed "></span>
+<span class="level level2 roundRed "></span>
+<span class="level level3 roundRed "></span>
+<span class="level level4 roundRed "></span>
+<span class="level level5 "></span>
+</span>
+</div>
+<h2 class="h2_entry"><span class="orth">bird</span><span class="span dictname"> in American</span></h2>
+<span class="mini_h2"><span class="span"> (</span><span class="pron type-ipa">bɜrd<span class="ptr hwd_sound type-hwd_sound"> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/en_/en_us/en_us_bird.mp3" data-lang="en_GB"></a>
+</span></span><span class="pron type-us_respelling"><span class="span">; </span>bʉrd</span><span class="span">)</span></span></div>
+<div class="socialButtons">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-facebook icon-facebook" title="Share this page on Facebook" onclick="ga('send', 'event', 'socialButtons', 'facebook');"></a
+><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird&via=collinsdict" target="_blank" rel="noopener" class="socialButtons-twitter icon-twitter" title="Share this page on Twitter" onclick="ga('send', 'event', 'socialButtons', 'twitter');"></a
+><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-google icon-google-plus" title="Share this page on Google+" onclick="ga('send', 'event', 'socialButtons', 'google');"></a
+>
+</div>
+<div class="content definitions american"> 
+<div class="hom"><span class="gramGrp"> <span class="pos">noun</span></span><div class="sense"><span class="span sensenum">1.&nbsp;</span> 
+<div class="def"> any of a class (Aves) of warmblooded, <a href="https://www.collinsdictionary.com/us/dictionary/english/two-legged" title="Definition of two-legged" class="ref type-def">two-legged</a>, egg-laying vertebrates with feathers and wings
+</div>
+</div>
+<div class="sense"><span class="span sensenum">2.&nbsp;</span> 
+<div class="def"> a small game bird</div><span class="xr"> <span class="lbl"><span class="span"> see also </span></span> <a href="https://www.collinsdictionary.com/us/dictionary/english/waterfowl" title="Definition of waterfowl" class="ref"> waterfowl</a></span></div>
+<div class="sense"><span class="span sensenum">3.&nbsp;</span> 
+<div class="def"> a <a href="https://www.collinsdictionary.com/us/dictionary/english/clay" title="Definition of clay" class="ref type-def">clay</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/pigeon" title="Definition of pigeon" class="ref type-def">pigeon</a> in trapshooting
+</div>
+</div>
+<div class="sense"><span class="span sensenum">4.&nbsp;</span> 
+<div class="def"> a <a href="https://www.collinsdictionary.com/us/dictionary/english/shuttlecock" title="Definition of shuttlecock" class="ref type-def">shuttlecock</a></div>
+</div>
+<div class="sense"><span class="span sensenum">5.&nbsp;</span><span class="lbl type-geo"> <span class="span">US</span></span><span class="lbl type-register"><span class="span">, </span><span class="span">Informal</span></span> 
+<div class="def"> a person, esp. a mildly <a href="https://www.collinsdictionary.com/us/dictionary/english/eccentric" title="Definition of eccentric" class="ref type-def">eccentric</a> one
+</div>
+</div>
+<div class="sense"><span class="span sensenum">6.&nbsp;</span><span class="lbl type-register"> <span class="span">Slang</span></span> 
+<div class="def"> a sound of <a href="https://www.collinsdictionary.com/us/dictionary/english/disapproval" title="Definition of disapproval" class="ref type-def">disapproval</a> made by <a href="https://www.collinsdictionary.com/us/dictionary/english/vibrate" title="Definition of vibrating" class="ref type-def">vibrating</a> the <a href="https://www.collinsdictionary.com/us/dictionary/english/lip_1" title="Definition of lips" class="ref type-def">lips</a></div>
+</div>
+<div class="sense"><span class="span sensenum">7.&nbsp;</span><span class="lbl type-register"> <span class="span">Slang</span></span> 
+<div class="def"> a <a href="https://www.collinsdictionary.com/us/dictionary/english/rocket" title="Definition of rocket" class="ref type-def">rocket</a> or <a href="https://www.collinsdictionary.com/us/dictionary/english/guide" title="Definition of guided" class="ref type-def">guided</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/missile" title="Definition of missile" class="ref type-def">missile</a></div>
+</div>
+<div class="sense"><span class="span sensenum">8.&nbsp;</span><span class="lbl type-geo"> <span class="span">British</span></span><span class="lbl type-register"><span class="span">, </span><span class="span">Slang</span></span> 
+<div class="def"> a young woman</div>
+</div>
+</div>
+<div class="hom"><span class="gramGrp"> <span class="pos">verb intransitive</span></span><div class="sense"><span class="span sensenum">9.&nbsp;</span> 
+<div class="def"> to <a href="https://www.collinsdictionary.com/us/dictionary/english/shoot" title="Definition of shoot" class="ref type-def">shoot</a> or <a href="https://www.collinsdictionary.com/us/dictionary/english/catch" title="Definition of catch" class="ref type-def">catch</a> birds
+</div>
+</div>
+<div class="sense"><span class="span sensenum">10.&nbsp;</span> 
+<div class="def"> to <a href="https://www.collinsdictionary.com/us/dictionary/english/engage" title="Definition of engage" class="ref type-def">engage</a> in bird-watching
+</div>
+</div>
+</div> 
+<div><b>Idioms:</b><div class="padLeft">
+<div class="re type-idiom"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/birds-of-a-feather" title="Definition of birds of a feather" class="ref"> birds of a feather</a></span></div>
+<div class="re type-idiom"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/eat-like-a-bird" title="Definition of eat like a bird" class="ref"> eat like a bird</a></span></div>
+<div class="re type-idiom"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/flip-someone-the-bird" title="Definition of flip someone the bird" class="ref"> flip someone the bird</a></span></div>
+<div class="re type-idiom"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/for-the-birds" title="Definition of for the birds" class="ref"> for the birds</a></span></div>
+<div class="re type-idiom"><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/the-birds-and-the-bees" title="Definition of the birds and the bees" class="ref"> the birds and the bees</a></span></div>
+</div>
+</div>
+<div class="div copyright"><span class="i">Webster’s New World College Dictionary, 4th Edition. Copyright © 2010 by
+Houghton Mifflin Harcourt. All rights reserved.</span></div> </div>
+<div class="div content etyms">
+<div class="etym hom_subsec">
+<div class="content-box-header">
+<div class="h2_entry">Word origin of 'bird'</div>
+</div>ME <span class="hi rend-i">bird, brid</span> &lt; OE <span class="hi rend-i">bridd,</span> bird, orig., young bird
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dictionary Collins_Eng_Dict">
+<div class="dictentry">
+<div class="dictlink">
+<div class="content-box content-box-definition ced" data-type-block="English" data-title-block="bird" data-num-block="" id="bird__2">
+<div class="content-box-header">
+<div class="word-frequency-container res_hos res_hot res_hod frenquency-title">
+<div class="label">Word Frequency</div>
+<span class="word-frequency-img" title="Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary" data-word="bird"
+data-band="4">
+<span class="level level1 roundRed "></span>
+<span class="level level2 roundRed "></span>
+<span class="level level3 roundRed "></span>
+<span class="level level4 roundRed "></span>
+<span class="level level5 "></span>
+</span>
+</div>
+<h2 class="h2_entry"><span class="orth">bird</span><span class="span dictname"> in British</span></h2>
+<span class="mini_h2"><span class="span"> (</span><span class="pron type-">bɜːd<span class="ptr hwd_sound type-hwd_sound"> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/0/049/04992/04992.mp3" data-lang="en_GB"></a>
+</span></span><span class="span">)</span></span></div>
+<div class="socialButtons">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-facebook icon-facebook" title="Share this page on Facebook" onclick="ga('send', 'event', 'socialButtons', 'facebook');"></a
+><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird&via=collinsdict" target="_blank" rel="noopener" class="socialButtons-twitter icon-twitter" title="Share this page on Twitter" onclick="ga('send', 'event', 'socialButtons', 'twitter');"></a
+><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-google icon-google-plus" title="Share this page on Google+" onclick="ga('send', 'event', 'socialButtons', 'google');"></a
+>
+</div>
+<div class="content definitions ced">
+<div class="hom"><span class="gramGrp"><span class="pos">noun</span></span><div class="sense"><span class="span sensenum">1.&nbsp;</span><div class="def">any <a href="https://www.collinsdictionary.com/us/dictionary/english/warm-blooded" title="Definition of warm-blooded" class="ref type-def">warm-blooded</a> egg-laying <a href="https://www.collinsdictionary.com/us/dictionary/english/vertebrate" title="Definition of vertebrate" class="ref type-def">vertebrate</a> of the class <span class="hi rend-i"><a href="https://www.collinsdictionary.com/us/dictionary/english/ave" title="Definition of Aves" class="ref type-def">Aves</a></span>, characterized by a body <a href="https://www.collinsdictionary.com/us/dictionary/english/covering" title="Definition of covering" class="ref type-def">covering</a> of <a href="https://www.collinsdictionary.com/us/dictionary/english/feather" title="Definition of feathers" class="ref type-def">feathers</a> and <a href="https://www.collinsdictionary.com/us/dictionary/english/forelimb" title="Definition of forelimbs" class="ref type-def">forelimbs</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/modify" title="Definition of modified" class="ref type-def">modified</a> as wings. Birds <a href="https://www.collinsdictionary.com/us/dictionary/english/vary" title="Definition of vary" class="ref type-def">vary</a> in size between the <a href="https://www.collinsdictionary.com/us/dictionary/english/ostrich" title="Definition of ostrich" class="ref type-def">ostrich</a> and the <a href="https://www.collinsdictionary.com/us/dictionary/english/hum" title="Definition of humming" class="ref type-def">humming</a> bird
+</div><span class="span"> ▶&nbsp;Related adjectives: </span><span class="xr">avian</span><span class="span">, </span><span class="xr">ornithic</span></div>
+<div class="sense"><span class="span sensenum">2.&nbsp;</span><span class="lbl type-register">informal</span> 
+<div class="def">a person (usually <a href="https://www.collinsdictionary.com/us/dictionary/english/precede" title="Definition of preceded" class="ref type-def">preceded</a> by a <a href="https://www.collinsdictionary.com/us/dictionary/english/qualify" title="Definition of qualifying" class="ref type-def">qualifying</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/adjective" title="Definition of adjective" class="ref type-def">adjective</a>, as in the phrases <span class="hi rend-b"><a href="https://www.collinsdictionary.com/us/dictionary/english/rare" title="Definition of rare" class="ref type-def">rare</a> bird, <a href="https://www.collinsdictionary.com/us/dictionary/english/odd" title="Definition of odd" class="ref type-def">odd</a> bird, <a href="https://www.collinsdictionary.com/us/dictionary/english/clever" title="Definition of clever" class="ref type-def">clever</a> bird</span>)
+</div>
+</div>
+<div class="sense"><span class="span sensenum">3.&nbsp;</span><span class="lbl type-register">slang</span><span class="lbl type-geo"><span class="span">, </span>mainly British</span> 
+<div class="def">a <a href="https://www.collinsdictionary.com/us/dictionary/english/girl" title="Definition of girl" class="ref type-def">girl</a> or young woman, esp one's <a href="https://www.collinsdictionary.com/us/dictionary/english/girlfriend" title="Definition of girlfriend" class="ref type-def">girlfriend</a></div>
+</div>
+<div class="sense"><span class="span sensenum">4.&nbsp;</span><span class="lbl type-register">slang</span> 
+<div class="def"><a href="https://www.collinsdictionary.com/us/dictionary/english/prison" title="Definition of prison" class="ref type-def">prison</a> or a term in prison (esp in the phrase <span class="hi rend-b">do bird</span>; <a href="https://www.collinsdictionary.com/us/dictionary/english/shorten" title="Definition of shortened" class="ref type-def">shortened</a> from <span class="hi rend-i"><a href="https://www.collinsdictionary.com/us/dictionary/english/birdlime" title="Definition of birdlime" class="ref type-def">birdlime</a></span>, <a href="https://www.collinsdictionary.com/us/dictionary/english/rhyme" title="Definition of rhyming" class="ref type-def">rhyming</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/slang" title="Definition of slang" class="ref type-def">slang</a> for <span class="hi rend-i">time</span>)
+</div>
+</div>
+<div class="sense"><span class="span sensenum">5.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/a-bird-in-the-hand" title="Definition of a bird in the hand" class="ref">a bird in the hand</a></span></div>
+<div class="sense"><span class="span sensenum">6.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/the-bird-has-flown" title="Definition of the bird has flown" class="ref">the bird has flown</a></span></div>
+<div class="sense"><span class="span sensenum">7.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/the-birds-and-the-bees" title="Definition of the birds and the bees" class="ref">the birds and the bees</a></span></div>
+<div class="sense"><span class="span sensenum">8.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/birds-of-a-feather" title="Definition of birds of a feather" class="ref">birds of a feather</a></span></div>
+<div class="sense"><span class="span sensenum">9.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/get-the-bird" title="Definition of get the bird" class="ref">get the bird</a></span></div>
+<div class="sense"><span class="span sensenum">10.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/give-someone-the-bird" title="Definition of give someone the bird" class="ref">give someone the bird</a></span></div>
+<div class="sense"><span class="span sensenum">11.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/kill-two-birds-with-one-stone" title="Definition of kill two birds with one stone" class="ref">kill two birds with one stone</a></span></div>
+<div class="sense"><span class="span sensenum">12.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/like-a-bird" title="Definition of like a bird" class="ref">like a bird</a></span></div>
+<div class="sense"><span class="span sensenum">13.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/a-little-bird" title="Definition of a little bird" class="ref">a little bird</a></span></div>
+<div class="sense"><span class="span sensenum">14.&nbsp;</span><span class="xr"> <a href="https://www.collinsdictionary.com/us/dictionary/english/for-the-birds" title="Definition of for the birds" class="ref">for the birds</a></span></div>
+</div>
+<div class="div copyright"><span class="i">Collins English Dictionary</span>. Copyright © HarperCollins Publishers
+</div> <div class="mpuslot_b-container"> <div id='ad_contentslot_1' class='am-default contentslot'>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_contentslot_1'); });</script>
+</div>
+</div> </div>
+<div class="div content derivs">
+<div class="re hom_subsec type-drv">
+<div class="content-box-header">
+<div class="h2_entry">Derived forms</div>
+</div><span class="form type-drv"><span class="orth">birdlike</span><span class="span"> (</span>ˈbirdlike<span class="span">)</span></span><div class="hom"><span class="gramGrp"> <span class="pos">adjective</span></span></div>
+</div>
+</div>
+<div class="div content etyms">
+<div class="etym hom_subsec">
+<div class="content-box-header">
+<div class="h2_entry">Word origin of 'bird'</div>
+</div>Old English <span class="hi rend-i">bridd</span>, of unknown origin
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dictentry">
+<div class="dictlink">
+<div class="content-box content-box-definition ced" data-type-block="English" data-title-block="Bird" data-num-block="" id="bird__3">
+<div class="content-box-header">
+<div class="word-frequency-container res_hos res_hot res_hod frenquency-title">
+<div class="label">Word Frequency</div>
+<span class="word-frequency-img" title="Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary" data-word="bird"
+data-band="4">
+<span class="level level1 roundRed "></span>
+<span class="level level2 roundRed "></span>
+<span class="level level3 roundRed "></span>
+<span class="level level4 roundRed "></span>
+<span class="level level5 "></span>
+</span>
+</div>
+<h2 class="h2_entry"><span class="orth">Bird</span><span class="span dictname"> in British</span></h2>
+<span class="mini_h2"><span class="span"> (</span><span class="pron type-">bɜːd<span class="ptr hwd_sound type-hwd_sound"> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for Bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/0/049/04992/04992.mp3" data-lang="en_GB"></a>
+</span></span><span class="span">)</span></span></div>
+<div class="socialButtons">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-facebook icon-facebook" title="Share this page on Facebook" onclick="ga('send', 'event', 'socialButtons', 'facebook');"></a
+><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird&via=collinsdict" target="_blank" rel="noopener" class="socialButtons-twitter icon-twitter" title="Share this page on Twitter" onclick="ga('send', 'event', 'socialButtons', 'twitter');"></a
+><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.collinsdictionary.com%2Fus%2Fdictionary%2Fenglish%2Fbird" target="_blank" rel="noopener" class="socialButtons-google icon-google-plus" title="Share this page on Google+" onclick="ga('send', 'event', 'socialButtons', 'google');"></a
+>
+</div>
+<div class="content definitions ced">
+<div class="hom"><span class="gramGrp"><span class="pos">noun</span></span><div class="sense"><span class="xr"> <span class="lbl">nickname of (Charlie)</span> <a href="https://www.collinsdictionary.com/us/dictionary/english/parker" title="Definition of Parker" class="ref">Parker</a></span></div>
+</div>
+<div class="div copyright"><span class="i">Collins English Dictionary</span>. Copyright © HarperCollins Publishers
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="assets">
+<div class="content-box content-box-examples" data-type-block="Example sentences">
+<div class="content-box-header">
+<h2 class="h2_entry">Example sentences containing 'bird'</h2>
+<div class="example-info">
+<i class="icon-warning"></i>
+These examples have been automatically selected and may contain sensitive content. 
+<a href="https://www.collinsdictionary.com/corpus-building/" title="How were these examples chosen?" target="_blank" rel="noopener">Read more…</a>
+</div>
+</div>
+<div class="cit type-example"><span class="quote">The white part is <a href="https://www.collinsdictionary.com/us/dictionary/english/quite" title="Definition of quite" class="ref type-def">quite</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/conspicuous" title="Definition of conspicuous" class="ref type-def">conspicuous</a> when the bird is flying away from you.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">The female and the young birds <a href="https://www.collinsdictionary.com/us/dictionary/english/follow" title="Definition of follow" class="ref type-def">follow</a> as <a href="https://www.collinsdictionary.com/us/dictionary/english/soon" title="Definition of soon" class="ref type-def">soon</a> as they can.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">Birds of <a href="https://www.collinsdictionary.com/us/dictionary/english/prey" title="Definition of prey" class="ref type-def">prey</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/sail" title="Definition of sail" class="ref type-def">sail</a> in the <a href="https://www.collinsdictionary.com/us/dictionary/english/sky" title="Definition of sky" class="ref type-def">sky</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">There were <a href="https://www.collinsdictionary.com/us/dictionary/english/nine" title="Definition of nine" class="ref type-def">nine</a> more <a href="https://www.collinsdictionary.com/us/dictionary/english/incident" title="Definition of incidents" class="ref type-def">incidents</a> involving between one and four birds over the <a href="https://www.collinsdictionary.com/us/dictionary/english/next" title="Definition of next" class="ref type-def">next</a> three <a href="https://www.collinsdictionary.com/us/dictionary/english/month" title="Definition of months" class="ref type-def">months</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/legend" title="Definition of Legend" class="ref type-def">Legend</a> has it that if the birds were to fly away, the city would <a href="https://www.collinsdictionary.com/us/dictionary/english/cease" title="Definition of cease" class="ref type-def">cease</a> to exist.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">A new <a href="https://www.collinsdictionary.com/us/dictionary/english/strain" title="Definition of strain" class="ref type-def">strain</a> of bird <a href="https://www.collinsdictionary.com/us/dictionary/english/flu" title="Definition of flu" class="ref type-def">flu</a> is <a href="https://www.collinsdictionary.com/us/dictionary/english/infect" title="Definition of infecting" class="ref type-def">infecting</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/poultry" title="Definition of poultry" class="ref type-def">poultry</a> and <a href="https://www.collinsdictionary.com/us/dictionary/english/duck" title="Definition of ducks" class="ref type-def">ducks</a> but has not yet <a href="https://www.collinsdictionary.com/us/dictionary/english/spread" title="Definition of spread" class="ref type-def">spread</a> to humans.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">They are <a href="https://www.collinsdictionary.com/us/dictionary/english/enchant" title="Definition of enchanting" class="ref type-def">enchanting</a> little birds.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">The bird feathers attached to various artifacts are of interest, as they can give
+anthropologists further <a href="https://www.collinsdictionary.com/us/dictionary/english/insight" title="Definition of insight" class="ref type-def">insight</a> into <a href="https://www.collinsdictionary.com/us/dictionary/english/custom" title="Definition of customs" class="ref type-def">customs</a> and trade.</span> <span class="title"> Smithsonian Mag</span><span class="year"><span class="span"> (</span>2017<span class="span">)</span></span><span class="quote">It bird that will be is <a href="https://www.collinsdictionary.com/us/dictionary/english/probably" title="Definition of probably" class="ref type-def">probably</a> the <a href="https://www.collinsdictionary.com/us/dictionary/english/last" title="Definition of last" class="ref type-def">last</a> rare bird that will be <a href="https://www.collinsdictionary.com/us/dictionary/english/discover" title="Definition of discovered" class="ref type-def">discovered</a> in Britain this year, and it was <a href="https://www.collinsdictionary.com/us/dictionary/english/still" title="Definition of still" class="ref type-def">still</a> there <a href="https://www.collinsdictionary.com/us/dictionary/english/yesterday" title="Definition of yesterday" class="ref type-def">yesterday</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">The <a href="https://www.collinsdictionary.com/us/dictionary/english/third" title="Definition of third" class="ref type-def">third</a> was a <a href="https://www.collinsdictionary.com/us/dictionary/english/shy_1" title="Definition of shy" class="ref type-def">shy</a> little bird in my <a href="https://www.collinsdictionary.com/us/dictionary/english/rib" title="Definition of rib" class="ref type-def">rib</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/cage" title="Definition of cage" class="ref type-def">cage</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2010<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/likely" title="Definition of Likely" class="ref type-def">Likely</a> head <a href="https://www.collinsdictionary.com/us/dictionary/english/gardener" title="Definition of gardeners" class="ref type-def">gardeners</a> were rare birds in those days but these things often turn out <a href="https://www.collinsdictionary.com/us/dictionary/english/well" title="Definition of well" class="ref type-def">well</a>.</span> <span class="author">Jane Brown</span> <span class="title"> TALES OF THE ROSE TREE: Ravishing Rhododendrons and their Travels Around the World</span><span class="year"><span class="span"> (</span>2004<span class="span">)</span></span><span class="quote">It is <a href="https://www.collinsdictionary.com/us/dictionary/english/easy" title="Definition of easy" class="ref type-def">easy</a> to be <a href="https://www.collinsdictionary.com/us/dictionary/english/alarmist" title="Definition of alarmist" class="ref type-def">alarmist</a> about bird flu.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2006<span class="span">)</span></span><span class="quote">These wandering individuals are <a href="https://www.collinsdictionary.com/us/dictionary/english/mostly" title="Definition of mostly" class="ref type-def">mostly</a> young birds.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2006<span class="span">)</span></span><span class="quote">Members of the public discovered one bird <a href="https://www.collinsdictionary.com/us/dictionary/english/dead" title="Definition of dead" class="ref type-def">dead</a> in a <a href="https://www.collinsdictionary.com/us/dictionary/english/village" title="Definition of village" class="ref type-def">village</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/pond" title="Definition of pond" class="ref type-def">pond</a>.</span> <span class="title"> The Sun</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">We swooped like some bird of prey over the <a href="https://www.collinsdictionary.com/us/dictionary/english/advance" title="Definition of advancing" class="ref type-def">advancing</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/army" title="Definition of army" class="ref type-def">army</a>.</span> <span class="author">Baxter, Stephen</span> <span class="title"> Anti-Ice</span><span class="year"><span class="span"> (</span>1993<span class="span">)</span></span><span class="quote">The incident is not the first time a bird has been used with <a href="https://www.collinsdictionary.com/us/dictionary/english/criminal" title="Definition of criminal" class="ref type-def">criminal</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/intent" title="Definition of intent" class="ref type-def">intent</a>.</span> <span class="title"> The Sun</span><span class="year"><span class="span"> (</span>2015<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/look" title="Definition of Look" class="ref type-def">Look</a> out for things like white feathers and birds that appear to follow you around the
+<a href="https://www.collinsdictionary.com/us/dictionary/english/garden" title="Definition of garden" class="ref type-def">garden</a>.</span> <span class="title"> The Sun</span><span class="year"><span class="span"> (</span>2013<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/eight" title="Definition of Eight" class="ref type-def">Eight</a> others were also taken to <a href="https://www.collinsdictionary.com/us/dictionary/english/hospital" title="Definition of hospital" class="ref type-def">hospital</a> yesterday with <a href="https://www.collinsdictionary.com/us/dictionary/english/suspect" title="Definition of suspected" class="ref type-def">suspected</a> bird flu.</span> <span class="title"> The Sun</span><span class="year"><span class="span"> (</span>2006<span class="span">)</span></span><span class="quote">These <a href="https://www.collinsdictionary.com/us/dictionary/english/vegetarian" title="Definition of vegetarian" class="ref type-def">vegetarian</a> birds like <a href="https://www.collinsdictionary.com/us/dictionary/english/juicy" title="Definition of juicy" class="ref type-def">juicy</a> young leaves.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2016<span class="span">)</span></span><span class="quote">It would pass from one bird to another.</span> <span class="author">Aldiss, Brian</span> <span class="title"> Somewhere East of Life</span><span class="year"><span class="span"> (</span>1994<span class="span">)</span></span><span class="quote">They <a href="https://www.collinsdictionary.com/us/dictionary/english/knock" title="Definition of knock" class="ref type-def">knock</a> prey birds out of the sky.</span> <span class="title"> Christianity Today</span><span class="year"><span class="span"> (</span>2000<span class="span">)</span></span><span class="quote">From time to time this bird may <a href="https://www.collinsdictionary.com/us/dictionary/english/drop" title="Definition of drop" class="ref type-def">drop</a> back and <a href="https://www.collinsdictionary.com/us/dictionary/english/let_1" title="Definition of let" class="ref type-def">let</a> another take over.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2006<span class="span">)</span></span><span class="quote">He wears army <a href="https://www.collinsdictionary.com/us/dictionary/english/fatigue" title="Definition of fatigues" class="ref type-def">fatigues</a> and a <a href="https://www.collinsdictionary.com/us/dictionary/english/hat" title="Definition of hat" class="ref type-def">hat</a> with bird feathers.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2008<span class="span">)</span></span><span class="quote">The bird is flying skywards with all its <a href="https://www.collinsdictionary.com/us/dictionary/english/might" title="Definition of might" class="ref type-def">might</a> and there are only two things that can <a href="https://www.collinsdictionary.com/us/dictionary/english/happen" title="Definition of happen" class="ref type-def">happen</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2008<span class="span">)</span></span><span class="quote">These birds would fly out each <a href="https://www.collinsdictionary.com/us/dictionary/english/dawn" title="Definition of dawn" class="ref type-def">dawn</a> and <a href="https://www.collinsdictionary.com/us/dictionary/english/return" title="Definition of return" class="ref type-def">return</a> at <a href="https://www.collinsdictionary.com/us/dictionary/english/dusk" title="Definition of dusk" class="ref type-def">dusk</a> carrying <a href="https://www.collinsdictionary.com/us/dictionary/english/news" title="Definition of news" class="ref type-def">news</a> of all that they had <a href="https://www.collinsdictionary.com/us/dictionary/english/see" title="Definition of seen" class="ref type-def">seen</a> or <a href="https://www.collinsdictionary.com/us/dictionary/english/hear" title="Definition of heard" class="ref type-def">heard</a>.</span> <span class="author">Barrett, Clive</span> <span class="title"> The Gods of Asgard</span><span class="year"><span class="span"> (</span>1989<span class="span">)</span></span><span class="quote">It's a matter of <a href="https://www.collinsdictionary.com/us/dictionary/english/taking" title="Definition of taking" class="ref type-def">taking</a> the bird in the hand now.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2008<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/undercover" title="Definition of Undercover" class="ref type-def">Undercover</a> bird There are creatures that are <a href="https://www.collinsdictionary.com/us/dictionary/english/always" title="Definition of always" class="ref type-def">always</a> with us and which are more or less <a href="https://www.collinsdictionary.com/us/dictionary/english/invisible" title="Definition of invisible" class="ref type-def">invisible</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2009<span class="span">)</span></span><span class="quote">Twitter's little <a href="https://www.collinsdictionary.com/us/dictionary/english/blue" title="Definition of blue" class="ref type-def">blue</a> bird has had its wings <a href="https://www.collinsdictionary.com/us/dictionary/english/scorch" title="Definition of scorched" class="ref type-def">scorched</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2013<span class="span">)</span></span><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/watch_1" title="Definition of Watch" class="ref type-def">Watch</a> out for <a href="https://www.collinsdictionary.com/us/dictionary/english/otter" title="Definition of otters" class="ref type-def">otters</a>, rare birds and <a href="https://www.collinsdictionary.com/us/dictionary/english/butterfly" title="Definition of butterflies" class="ref type-def">butterflies</a>.</span> <span class="title"> The Sun</span><span class="year"><span class="span"> (</span>2013<span class="span">)</span></span><span class="quote">In his hand was the bird, still <a href="https://www.collinsdictionary.com/us/dictionary/english/alive" title="Definition of alive" class="ref type-def">alive</a> and well.</span> <span class="author">Richard Holmes</span> <span class="title"> Dusty Warriors: Modern Soldiers at War</span><span class="year"><span class="span"> (</span>2006<span class="span">)</span></span><span class="quote"> Lay the birds skin-side down on the <a href="https://www.collinsdictionary.com/us/dictionary/english/griddle" title="Definition of griddle" class="ref type-def">griddle</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/pan_1" title="Definition of pan" class="ref type-def">pan</a> and use a pan <a href="https://www.collinsdictionary.com/us/dictionary/english/lid" title="Definition of lid" class="ref type-def">lid</a> or something heavy to <a href="https://www.collinsdictionary.com/us/dictionary/english/press" title="Definition of press" class="ref type-def">press</a> them <a href="https://www.collinsdictionary.com/us/dictionary/english/flatter" title="Definition of flatter" class="ref type-def">flatter</a> against the <a href="https://www.collinsdictionary.com/us/dictionary/english/grill" title="Definition of grill" class="ref type-def">grill</a>.</span> <span class="title"> Times, Sunday Times</span><span class="year"><span class="span"> (</span>2013<span class="span">)</span></span></div> <div class="mpuslot_b-container"> <div id='ad_contentslot_2' class='am-default contentslot'>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_contentslot_2'); });</script>
+</div>
+</div> </div>
+<div class="content-box content-box-quotations">
+<div class="content-box-header">
+<h2 class="h2_entry">Quotations</h2>
+</div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote">Be ye therefore <a href="https://www.collinsdictionary.com/us/dictionary/english/wise_1" title="Definition of wise" class="ref type-def">wise</a> as <a href="https://www.collinsdictionary.com/us/dictionary/english/serpent" title="Definition of serpents" class="ref type-def">serpents</a>, and <a href="https://www.collinsdictionary.com/us/dictionary/english/harmless" title="Definition of harmless" class="ref type-def">harmless</a> as <a href="https://www.collinsdictionary.com/us/dictionary/english/dove" title="Definition of doves" class="ref type-def">doves</a></span><span class="bibl"> <span class="title">Bible: St. Matthew</span></span></span></div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote"><a href="https://www.collinsdictionary.com/us/dictionary/english/magpie" title="Definition of magpie" class="ref type-def">magpie</a>: a bird whose thievish <a href="https://www.collinsdictionary.com/us/dictionary/english/disposition" title="Definition of disposition" class="ref type-def">disposition</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/suggest" title="Definition of suggested" class="ref type-def">suggested</a> to someone that it might be <a href="https://www.collinsdictionary.com/us/dictionary/english/teach" title="Definition of taught" class="ref type-def">taught</a> to <a href="https://www.collinsdictionary.com/us/dictionary/english/talk" title="Definition of talk" class="ref type-def">talk</a></span><span class="bibl"><span class="author">Ambrose Bierce</span> <span class="title">The Devil's Dictionary</span></span></span></div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote">Oh, a wondrous bird is the <a href="https://www.collinsdictionary.com/us/dictionary/english/pelican" title="Definition of pelican" class="ref type-def">pelican</a>!<br>His <a href="https://www.collinsdictionary.com/us/dictionary/english/beak" title="Definition of beak" class="ref type-def">beak</a> can hold more than his belican.<br>He takes in his beak<br>Food enough for a <a href="https://www.collinsdictionary.com/us/dictionary/english/week" title="Definition of week" class="ref type-def">week</a>.<br>But I'll be <a href="https://www.collinsdictionary.com/us/dictionary/english/darn" title="Definition of darned" class="ref type-def">darned</a> if I <a href="https://www.collinsdictionary.com/us/dictionary/english/know" title="Definition of know" class="ref type-def">know</a> how the helican</span><span class="bibl"><span class="author">Dixon Lanier Merritt</span></span></span></div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote">No <a href="https://www.collinsdictionary.com/us/dictionary/english/ladder" title="Definition of ladder" class="ref type-def">ladder</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/need" title="Definition of needs" class="ref type-def">needs</a> the bird but skies<br>To <a href="https://www.collinsdictionary.com/us/dictionary/english/situate" title="Definition of situate" class="ref type-def">situate</a> its wings,<br>Nor any leader's <a href="https://www.collinsdictionary.com/us/dictionary/english/grim" title="Definition of grim" class="ref type-def">grim</a> <a href="https://www.collinsdictionary.com/us/dictionary/english/baton" title="Definition of baton" class="ref type-def">baton</a><br>Arraigns it as it <a href="https://www.collinsdictionary.com/us/dictionary/english/sing" title="Definition of sings" class="ref type-def">sings</a></span><span class="bibl"><span class="author">Emily Dickinson</span></span></span></div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote">Who <a href="https://www.collinsdictionary.com/us/dictionary/english/wills" title="Definition of wills" class="ref type-def">wills</a> devoutly to <a href="https://www.collinsdictionary.com/us/dictionary/english/absorb" title="Definition of absorb" class="ref type-def">absorb</a>, contain,<br>birds give him <a href="https://www.collinsdictionary.com/us/dictionary/english/pain" title="Definition of pain" class="ref type-def">pain</a></span><span class="bibl"><span class="author">Richard Wilbur</span> <span class="title">The Beautiful Changes</span></span></span></div>
+<div class="assetlink"><span class="cit type-quotation"><span class="quote">I know what the caged bird <a href="https://www.collinsdictionary.com/us/dictionary/english/feel" title="Definition of feels" class="ref type-def">feels</a>, alas!</span><span class="bibl"><span class="author">Paul Lawrence Dunbar</span> <span class="title">Sympathy</span></span></span></div>
+<div class="assetlink"><span class="cit type-proverb"><span class="quote">A bird in the hand is <a href="https://www.collinsdictionary.com/us/dictionary/english/worth" title="Definition of worth" class="ref type-def">worth</a> two in the <a href="https://www.collinsdictionary.com/us/dictionary/english/bush" title="Definition of bush" class="ref type-def">bush</a></span></span></div>
+<div class="assetlink"><span class="cit type-proverb"><span class="quote">Birds of a feather <a href="https://www.collinsdictionary.com/us/dictionary/english/flock" title="Definition of flock" class="ref type-def">flock</a> together</span></span></div>
+</div>
+<div class="content-box content-box-synonyms">
+<div class="content-box-header">
+<h2 class="h2_entry">Synonyms of 'bird'</h2>
+</div>
+<div class="p">
+<div><span class="form firstSyn type-syn"><span class="orth">feathered friend</span></span>, <span class="form otherSyn type-syn"><span class="orth">birdie</span></span>, <span class="form otherSyn type-syn"><a href="https://www.collinsdictionary.com/us/dictionary/english/fledgling" title="Definition of fledgling" class="ref">fledgling</a></span>, <span class="form otherSyn type-syn"><a href="https://www.collinsdictionary.com/us/dictionary/english/fowl" title="Definition of fowl" class="ref">fowl</a></span></div>
+</div>
+<div><a href="https://www.collinsdictionary.com/us/dictionary/english-thesaurus/bird#bird__1" title="Synonyms of bird" class="ref type-thesaurus">More Synonyms of bird</a></div>
+</div>
+<div class="content-box content-box-wordlists">
+<div class="content-box-header">
+<h2 class="h2_entry">Word Lists</h2>
+</div><span class="xr"><a href="https://www.collinsdictionary.com/us/word-lists/animal-related-adjectives#animal-related-adjectives__1" title="Word list of Related adjectives" class="ref">Related adjectives</a></span>, <span class="xr"><a href="https://www.collinsdictionary.com/us/word-lists/animal-habitations#animal-habitations__1" title="Word list of Habitations" class="ref">Habitations</a></span>, <span class="xr"><a href="https://www.collinsdictionary.com/us/word-lists/animal-male#animal-male__1" title="Word list of Male" class="ref">Male</a></span>, <span class="xr"><a href="https://www.collinsdictionary.com/us/word-lists/animal-female#animal-female__1" title="Word list of Female" class="ref">Female</a></span>, <span class="xr"><a href="https://www.collinsdictionary.com/us/word-lists/animal-young#animal-young__1" title="Word list of Young" class="ref">Young</a></span></div>
+</div>
+</div> </div>
+<div class="content-box content-box-usage" data-type-block="Trends">
+<div class="content-box-header">
+<h2 class="h2_entry">Trends of 'bird'</h2>
+</div>
+<div class="word-frequency-container">
+<p>
+Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary
+<span class="word-frequency-img" title="Very Common. bird is one of the 4000 most commonly used words in the Collins dictionary" data-word="bird"
+data-band="4">
+<span class="level level1 roundRed "></span>
+<span class="level level2 roundRed "></span>
+<span class="level level3 roundRed "></span>
+<span class="level level4 roundRed "></span>
+<span class="level level5 "></span>
+</span>
+</p>
+</div>
+<div class="block-content clear">
+<p>
+View usage over:
+<select class="expandable-list" id="graph_years">
+<option value="-1">Since Exist</option>
+<option value="10">Last 10 years</option>
+<option value="50">Last 50 years</option>
+<option value="100">Last 100 years</option>
+<option value="300">Last 300 years</option>
+</select>
+</p>
+<div id="visualization"></div>
+</div>
+</div>
+<script type="text/javascript">
+var maxYear=2008;var frequencyData = '300:125|299:166|298:41|297:81|296:29|295:198|294:106|293:73|292:39|291:26|290:91|289:114|288:102|287:116|286:88|285:66|284:26|283:387|282:104|281:96|280:120|279:149|278:121|276:110|275:594|274:81|273:189|272:270|271:233|270:184|269:78|268:339|267:173|266:147|265:129|264:165|263:385|262:104|261:357|260:220|259:322|258:271|257:178|256:406|255:295|254:423|253:392|252:471|251:331|250:418|249:427|248:450|247:308|246:333|245:380|244:413|243:693|242:403|241:618|240:637|239:441|238:497|237:542|236:498|235:742|234:469|233:1076|232:954|231:629|230:525|229:995|228:535|227:460|226:543|225:496|224:477|223:554|222:405|221:546|220:518|219:587|218:794|217:440|216:540|215:627|214:544|213:701|212:588|211:613|210:583|209:509|208:697|207:574|206:592|205:519|204:438|203:489|202:615|201:651|200:455|199:521|198:620|197:413|196:414|195:625|194:391|193:514|192:630|191:408|190:407|189:464|188:406|187:542|186:530|185:550|184:458|183:551|182:511|181:488|180:532|179:661|178:467|177:581|176:705|175:743|174:725|173:692|172:532|171:575|170:466|169:441|168:464|167:498|166:514|165:680|164:569|163:515|162:561|161:573|160:499|159:777|158:520|157:700|156:667|155:542|154:762|153:567|152:689|151:679|150:576|149:637|148:637|147:673|146:1158|145:670|144:684|143:754|142:869|141:795|140:716|139:636|138:810|137:756|136:730|135:686|134:769|133:627|132:663|131:718|130:687|129:648|128:608|127:612|126:689|125:745|124:667|123:714|122:640|121:642|120:701|119:705|118:820|117:650|116:675|115:914|114:782|113:925|112:806|111:707|110:666|109:694|108:651|107:647|106:574|105:577|104:601|103:676|102:782|101:612|100:667|99:705|98:781|97:586|96:613|95:591|94:582|93:628|92:793|91:487|90:516|89:570|88:540|87:568|86:705|85:742|84:718|83:614|82:640|81:621|80:612|79:661|78:568|77:665|76:659|75:851|74:628|73:692|72:604|71:476|70:496|69:535|68:512|67:592|66:706|65:941|64:607|63:715|62:606|61:610|60:585|59:669|58:637|57:693|56:505|55:568|54:610|53:605|52:647|51:531|50:557|49:561|48:573|47:520|46:515|45:630|44:515|43:535|42:550|41:564|40:581|39:526|38:538|37:656|36:513|35:557|34:557|33:500|32:537|31:558|30:481|29:466|28:491|27:450|26:396|25:380|24:382|23:405|22:354|21:386|20:347|19:394|18:370|17:397|16:499|15:375|14:424|13:359|12:351|11:361|10:321|9:311|8:347|7:336|6:364|5:335|4:349|3:312|2:369|1:311|0:319';
+</script>
+<div class="content-box content-box-translations" data-type-block="Translations">
+<div class="content-box-header">
+<h2 class="h2_entry">
+Translations for 'bird'
+</h2>
+</div>
+<div class="translation_list clear"><div class="translation"><span class='lang'>British English</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/english/bird">bird</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/en_/en_gb/en_gb_w0008660.mp3" data-lang="en-gb"></a>
+/<span class="pron">bɜːd</span>/ <span class="gramGrp"> NOUN</span><div> A <em class="hi">bird</em> is a creature with feathers and wings.</div></div><ul class="columns2"><li class="translation"><span class='lang'>American English</span>: <span class="orth"><a href="">bird</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for bird in English" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/en_/en_us/en_us_w0008660.mp3" data-lang="en-us"></a>
+</li><li class="translation"><span class='lang'>Arabic</span>: <span class="orth">طَائِر</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#1591;&#1614;&#1575;&#1574;&#1616;&#1585; in Arabic" data-src-mp3="https://www.collinsdictionary.com/us/sounds/a/ar_/ar_w0/ar_w0008660.mp3" data-lang="ar-ar"></a>
+</li><li class="translation"><span class='lang'>Brazilian Portuguese</span>: <span class="orth">pássaro</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for p&aacute;ssaro in Brazilian Portuguese" data-src-mp3="https://www.collinsdictionary.com/us/sounds/p/pt_/pt_br/pt_br_w0008660.mp3" data-lang="pt-br"></a>
+</li><li class="translation"><span class='lang'>Chinese</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/chinese-english/%E9%B8%9F">鸟</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#40479; in Chinese" data-src-mp3="https://www.collinsdictionary.com/us/sounds/z/zh_/zh_cn/zh_cn_w0008660.mp3" data-lang="zh-cn"></a>
+</li><li class="translation"><span class='lang'>Croatian</span>: <span class="orth">ptica</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for ptica in Croatian" data-src-mp3="https://www.collinsdictionary.com/us/sounds/h/hr_/hr_w0/hr_w0008660.mp3" data-lang="hr-hr"></a>
+</li><li class="translation"><span class='lang'>Czech</span>: <span class="orth">pták</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for pt&aacute;k in Czech" data-src-mp3="https://www.collinsdictionary.com/us/sounds/c/cs_/cs_w0/cs_w0008660.mp3" data-lang="cs-cs"></a>
+</li><li class="translation"><span class='lang'>Danish</span>: <span class="orth">fugl</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for fugl in Danish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/d/da_/da_w0/da_w0008660.mp3" data-lang="da-da"></a>
+</li><li class="translation"><span class='lang'>Dutch</span>: <span class="orth">vogel</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for vogel in Dutch" data-src-mp3="https://www.collinsdictionary.com/us/sounds/n/nl_/nl_w0/nl_w0008660.mp3" data-lang="nl-nl"></a>
+</li><li class="translation"><span class='lang'>European Spanish</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/spanish-english/ave">ave</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for ave in Spanish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/es_/es_es/es_es_w0008660.mp3" data-lang="es-es"></a>
+</li><li class="translation"><span class='lang'>Finnish</span>: <span class="orth">lintu</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for lintu in Finnish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/f/fi_/fi_w0/fi_w0008660.mp3" data-lang="fi-fi"></a>
+</li><li class="translation"><span class='lang'>French</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/french-english/oiseau">oiseau</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for oiseau in French" data-src-mp3="https://www.collinsdictionary.com/us/sounds/f/fr_/fr_w0/fr_w0008660.mp3" data-lang="fr-fr"></a>
+</li><li class="translation"><span class='lang'>German</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/german-english/vogel">Vogel</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for Vogel in German" data-src-mp3="https://www.collinsdictionary.com/us/sounds/d/de_/de_w0/de_w0008660.mp3" data-lang="de-de"></a>
+</li><li class="translation"><span class='lang'>Greek</span>: <span class="orth">πουλί</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &pi;&omicron;&upsilon;&lambda;&#943; in Greek" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/el_/el_w0/el_w0008660.mp3" data-lang="el-el"></a>
+</li><li class="translation"><span class='lang'>Italian</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/italian-english/uccello">uccello</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for uccello in Italian" data-src-mp3="https://www.collinsdictionary.com/us/sounds/i/it_/it_w0/it_w0008660.mp3" data-lang="it-it"></a>
+</li><li class="translation"><span class='lang'>Japanese</span>: <span class="orth">鳥</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#40165; in Japanese" data-src-mp3="https://www.collinsdictionary.com/us/sounds/j/ja_/ja_w0/ja_w0008660.mp3" data-lang="ja-ja"></a>
+</li><li class="translation"><span class='lang'>Korean</span>: <span class="orth">새</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#49352; in Korean" data-src-mp3="https://www.collinsdictionary.com/us/sounds/k/ko_/ko_w0/ko_w0008660.mp3" data-lang="ko-ko"></a>
+참새</li><li class="translation"><span class='lang'>Norwegian</span>: <span class="orth">fugl</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for fugl in Norwegian" data-src-mp3="https://www.collinsdictionary.com/us/sounds/n/no_/no_w0/no_w0008660.mp3" data-lang="no-no"></a>
+</li><li class="translation"><span class='lang'>Polish</span>: <span class="orth">ptak</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for ptak in Polish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/p/pl_/pl_w0/pl_w0008660.mp3" data-lang="pl-pl"></a>
+</li><li class="translation"><span class='lang'>European Portuguese</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/portuguese-english/passaro">pássaro</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for p&aacute;ssaro in Portuguese" data-src-mp3="https://www.collinsdictionary.com/us/sounds/p/pt_/pt_pt/pt_pt_w0008660.mp3" data-lang="pt-pt"></a>
+</li><li class="translation"><span class='lang'>Romanian</span>: <span class="orth">pasăre</span></li><li class="translation"><span class='lang'>Russian</span>: <span class="orth">птица</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#1087;&#1090;&#1080;&#1094;&#1072; in Russian" data-src-mp3="https://www.collinsdictionary.com/us/sounds/r/ru_/ru_w0/ru_w0008660.mp3" data-lang="ru-ru"></a>
+</li><li class="translation"><span class='lang'>Spanish</span>: <span class="orth"><a href="https://www.collinsdictionary.com/us/dictionary/spanish-english/ave">ave</a></span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for ave in Spanish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/e/es_/es_41/es_419_w0008660.mp3" data-lang="es-419"></a>
+</li><li class="translation"><span class='lang'>Swedish</span>: <span class="orth">fågel</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for f&aring;gel in Swedish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/s/sv_/sv_w0/sv_w0008660.mp3" data-lang="sv-sv"></a>
+</li><li class="translation"><span class='lang'>Thai</span>: <span class="orth">นก</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for &#3609;&#3585; in Thai" data-src-mp3="https://www.collinsdictionary.com/us/sounds/t/th_/th_w0/th_w0008660.mp3" data-lang="th-th"></a>
+</li><li class="translation"><span class='lang'>Turkish</span>: <span class="orth">kuş</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for ku&#351; in Turkish" data-src-mp3="https://www.collinsdictionary.com/us/sounds/t/tr_/tr_w0/tr_w0008660.mp3" data-lang="tr-tr"></a>
+</li><li class="translation"><span class='lang'>Ukrainian</span>: <span class="orth">птах</span></li><li class="translation"><span class='lang'>Vietnamese</span>: <span class="orth">chim</span> <a class="hwd_sound sound audio_play_button icon-volume-up ptr" title="Pronunciation for chim in Vietnamese" data-src-mp3="https://www.collinsdictionary.com/us/sounds/v/vi_/vi_w0/vi_w0008660.mp3" data-lang="vi-vi"></a>
+</li></ul></div> <br/>
+<div>
+<a href="https://www.collinsdictionary.com/us/translator" title="Translate your text for free" class="extra-link">Translate your text for free</a>
+</div>
+<div class="mpuslot_b-container"> <div id='ad_contentslot_3' class='am-default contentslot'>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_contentslot_3'); });</script>
+</div>
+</div> </div>
+<div class="content-box content-box-nearby-words">
+<div class="columns2" >
+<div class="columns-block">
+<div class="content-box-header">
+<h2 class="h2_entry titleTypeContainer"><span class="titleType">Nearby words of 'bird'</span></h2>
+</div>
+<ul>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/bircher" title="Definition of Bircher, nearby word of bird">Bircher</a></li>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/bircher-muesli" title="Definition of Bircher muesli, nearby word of bird">Bircher muesli</a></li>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/birching" title="Definition of birching, nearby word of bird">birching</a></li>
+<li class="current">bird</li>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-bath" title="Definition of bird bath, nearby word of bird">bird bath</a></li>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-cage" title="Definition of bird cage, nearby word of bird">bird cage</a></li>
+<li><a class="nearbyLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-cherry" title="Definition of bird cherry, nearby word of bird">bird cherry</a></li>
+<li>
+<br/>
+<a class="extra-link" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-b" title="All ENGLISH words that begin with 'B'">All ENGLISH words that begin with 'B'</a>
+</li>
+</ul>
+</div> <div class="columns-block">
+<div class="content-box-header">
+<h2 class="h2_entry titleTypeContainer"><span class="titleType">Related Terms of 'bird'</span></h2>
+</div>
+<ul>
+<li><i class="icon-angle-right"></i> <a class="relatedLink" href="https://www.collinsdictionary.com/us/dictionary/english/do-bird" title="Definition of do bird, related term of bird">do bird</a></li>
+<li><i class="icon-angle-right"></i> <a class="relatedLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-bath" title="Definition of bird bath, related term of bird">bird bath</a></li>
+<li><i class="icon-angle-right"></i> <a class="relatedLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-cage" title="Definition of bird cage, related term of bird">bird cage</a></li>
+<li><i class="icon-angle-right"></i> <a class="relatedLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-dog" title="Definition of bird dog, related term of bird">bird dog</a></li>
+<li><i class="icon-angle-right"></i> <a class="relatedLink" href="https://www.collinsdictionary.com/us/dictionary/english/bird-dog" title="Definition of bird-dog, related term of bird">bird-dog</a></li>
+<li>
+<br/>
+<a class="extra-link" href="https://www.collinsdictionary.com/us/dictionary/english/bird/related" title="View all related words of 'bird'">View more related words</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="content-box content-box-origin">
+<div class="content-box-header">
+<h2 class="h2_entry titleTypeContainer"><span class="titleType">Source</span></h2>
+</div>
+<div>
+Definition of <b>bird</b> from the
+<a href="https://www.collinsdictionary.com/us/dictionary/english" title="English Dictionary">Collins English Dictionary</a>
+</div>
+</div>
+<div class="btmslot_a-container"> <div id='ad_btmslot_a' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_btmslot_a'); });</script>
+</div>
+</div>
+</div>
+</div>
+<div class="res_cell_right">
+<div class="columns_item sidebar_item">
+<a class="promoBox grammarBox" data-dictCode="elt-grammar" href="https://grammar.collinsdictionary.com/us/easy-learning/showing-possession-through-nouns" title="Definition of Showing possession through nouns">
+<div class="promoBox-content">
+<div class="promoBox-title"><p class="chaptitle"><span class="bold">Showing possession through nouns</span></p></div>
+<div class="promoBox-description"> Possession can be shown in two ways: The man was mending his car. The car was being mended by a man. by adding-’s to a singular noun, or an irregular plural noun that does not end in - s. ...</div>
+<div class="promoBox-readMore">Read more about 'Showing possession through nouns'</div>
+</div>
+</a>
+</div>
+<div id='ad_rightslot' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_rightslot'); });</script>
+</div>
+<div class="columns_item sidebar_item">
+<a class="promoBox wotdBox" href="https://www.collinsdictionary.com/us/dictionary/english/citrine" title="Definition of citrine">
+<div class="promoBox-img" style="background-image:url(https://s3-eu-west-1.amazonaws.com/fr.idm.hcd.cdn/images/wotd/2808);" ></div>
+<div class="promoBox-content">
+<div class="promoBox-header">Word of the day:</div>
+<div class="promoBox-title">citrine</div>
+<div class="promoBox-description">a brownish-yellow variety of quartz : a gemstone ; false topaz </div>
+<div class="promoBox-readMore">See full definition</div>
+<div class="promoBox-footer"><time datetime="2018-07-29 00:00:00">Jul 29, 2018</time></div>
+</div>
+</a>
+</div>
+<a class="promoBox" href="https://www.harpercollins.com/reference" title="Study guides for every stage of your learning journey" data-location="ENTRY" data-id="study-guides-for-every-stage-of-your-learning-journey">
+<div class="promoBox-img" style="background-image:url(https://s3-eu-west-1.amazonaws.com/fr.idm.hcd.cdn/images/promoboxes/ff98cea6-61b3-4e5a-bb4d-09c0b9b147da.jpg)"></div>
+<div class="promoBox-content" style="">
+<div class="promoBox-title">Study guides for every stage of your learning journey</div>
+<div class="promoBox-description">Whether you're in search of a crossword puzzle, a detailed guide to tying knots, or tips on writing the perfect college essay, Harper Reference has you covered for all your study needs.</div>
+<div class="promoBox-readMore">Read more</div>
+</div>
+</a>
+<a class="promoBox" href="https://www.collinsdictionary.com/word-lovers-blog/new/5-unusual-words-phrases-to-upgrade-your-world-cup-2018-banter,439,HCB.html" title="5 unusual words &amp; phrases to upgrade your World Cup 2018 banter" data-location="ENTRY" data-id="5-unusual-words-phrases-to-upgrade-your-world-cup-2018-banter">
+<div class="promoBox-img" style="background-image:url(https://s3-eu-west-1.amazonaws.com/fr.idm.hcd.cdn/images/promoboxes/b9ff869d-4541-4413-b1a1-640d8ba8c9ea.jpg)"></div>
+<div class="promoBox-content" style="">
+<div class="promoBox-title">5 unusual words &amp; phrases to upgrade your World Cup 2018 banter</div>
+<div class="promoBox-description">Impress your friends, family and colleagues with this unusual collection of football lingo. </div>
+<div class="promoBox-readMore">Read more</div>
+</div>
+</a>
+<a class="promoBox" href="https://www.collinsdictionary.com/word-lovers-blog/new/audrey-brow-unicorn-farts-space-grease-junes-words-in-the-news,442,HCB.html" title="Audrey Brow, Unicorn Farts &amp; Space Grease: June&rsquo;s Words in the News" data-location="ENTRY" data-id="audrey-brow-unicorn-farts-space-grease-june-s-words-in-the-news">
+<div class="promoBox-img" style="background-image:url(https://s3-eu-west-1.amazonaws.com/fr.idm.hcd.cdn/images/promoboxes/4aa76bc1-564a-430b-81cd-6992a7c63fb1.jpg)"></div>
+<div class="promoBox-content" style="">
+<div class="promoBox-title">Audrey Brow, Unicorn Farts &amp; Space Grease: June&rsquo;s Words in the News</div>
+<div class="promoBox-description">Catch up on the latest words in the news this June with Robert Groves.</div>
+<div class="promoBox-readMore">Read more</div>
+</div>
+</a>
+<a class="promoBox" href="https://www.collinsdictionary.com/register" title="Join the Collins community" data-location="ENTRY" data-id="join-the-collins-community">
+<div class="promoBox-img" style="background-image:url(https://s3-eu-west-1.amazonaws.com/fr.idm.hcd.cdn/images/promoboxes/fae2f896-4dc2-483f-8663-6ddd670543f0.jpg)"></div>
+<div class="promoBox-content" style="">
+<div class="promoBox-title">Join the Collins community</div>
+<div class="promoBox-description">All the latest wordy news, linguistic insights, offers and competitions every month.</div>
+<div class="promoBox-readMore">Read more</div>
+</div>
+</a>
+<div class="columns_item sidebar_item">
+<a class="scrabble-box promoBox" href="https://www.collinsdictionary.com/us/scrabble/" title="Scrabble Word Checker">
+<div class="promoBox-content">
+<div class="promoBox-title"></div>
+<div class="promoBox-description">Scrabble score for 'bird': 7</div>
+</div>
+</a>
+</div>
+<div class="columns_item sidebar_item">
+<div class="submission-box promoBox">
+<div class="promoBox-img" style="background-image:url(https://www.collinsdictionary.com/us/external/images/keyboard.jpg)"></div>
+<div class="promoBox-content">
+<div class="promoBox-title">Latest Word Submissions</div>
+<div class="promoBox-description">
+<div>
+<a class="submissionLink" href="https://www.collinsdictionary.com/us/submission/20199/off-rolling" title="off-rolling">off-rolling</a>
+<time datetime="2018-07-25 08:36:10">Jul 25, 2018</time>
+</div>
+<div>
+<a class="submissionLink" href="https://www.collinsdictionary.com/us/submission/20198/apicoplast" title="apicoplast">apicoplast</a>
+<time datetime="2018-07-24 11:29:43">Jul 24, 2018</time>
+</div>
+<div>
+<a class="submissionLink" href="https://www.collinsdictionary.com/us/submission/20197/apicomplexan" title="apicomplexan">apicomplexan</a>
+<time datetime="2018-07-24 11:28:37">Jul 24, 2018</time>
+</div>
+<div>
+<a class="submissionLink" href="https://www.collinsdictionary.com/us/submission/20196/parasitophorous" title="parasitophorous">parasitophorous</a>
+<time datetime="2018-07-24 10:15:34">Jul 24, 2018</time>
+</div>
+<div>
+<a class="submissionLink" href="https://www.collinsdictionary.com/us/submission/20195/perforin" title="perforin">perforin</a>
+<time datetime="2018-07-24 10:08:41">Jul 24, 2018</time>
+</div>
+</div>
+<a class="promoBox-readMore floatRight" href="https://www.collinsdictionary.com/us/submission/" title="Submit a new word to HarperCollins Dictionary">Submit</a>
+<a class="promoBox-readMore" href="https://www.collinsdictionary.com/us/submissions/latest" title="See the latest submission words">View More</a>
+</div>
+</div>
+</div>
+<div id='ad_rightslot2' class='am-default '>
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad_rightslot2'); });</script>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+</main>
+<footer>
+<div class='footer_content'>
+<div class="main-content">
+<div class="footer_block">
+<div class="title">Browse the English Dictionary</div>
+<ul class='browse-letters'>
+<li><a title="Browse English words that start with a digit" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-digit">#</a></li>
+<li><a title="Browse English words that start with 'a'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-a">A</a></li>
+<li><a title="Browse English words that start with 'b'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-b">B</a></li>
+<li><a title="Browse English words that start with 'c'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-c">C</a></li>
+<li><a title="Browse English words that start with 'd'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-d">D</a></li>
+<li><a title="Browse English words that start with 'e'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-e">E</a></li>
+<li><a title="Browse English words that start with 'f'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-f">F</a></li>
+<li><a title="Browse English words that start with 'g'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-g">G</a></li>
+<li><a title="Browse English words that start with 'h'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-h">H</a></li>
+<li><a title="Browse English words that start with 'i'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-i">I</a></li>
+<li><a title="Browse English words that start with 'j'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-j">J</a></li>
+<li><a title="Browse English words that start with 'k'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-k">K</a></li>
+<li><a title="Browse English words that start with 'l'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-l">L</a></li>
+<li><a title="Browse English words that start with 'm'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-m">M</a></li>
+<li><a title="Browse English words that start with 'n'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-n">N</a></li>
+<li><a title="Browse English words that start with 'o'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-o">O</a></li>
+<li><a title="Browse English words that start with 'p'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-p">P</a></li>
+<li><a title="Browse English words that start with 'q'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-q">Q</a></li>
+<li><a title="Browse English words that start with 'r'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-r">R</a></li>
+<li><a title="Browse English words that start with 's'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-s">S</a></li>
+<li><a title="Browse English words that start with 't'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-t">T</a></li>
+<li><a title="Browse English words that start with 'u'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-u">U</a></li>
+<li><a title="Browse English words that start with 'v'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-v">V</a></li>
+<li><a title="Browse English words that start with 'w'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-w">W</a></li>
+<li><a title="Browse English words that start with 'x'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-x">X</a></li>
+<li><a title="Browse English words that start with 'y'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-y">Y</a></li>
+<li><a title="Browse English words that start with 'z'" href="https://www.collinsdictionary.com/us/browse/english/words-starting-with-z">Z</a></li>
+</ul>
+<div><a title="Browse all official Collins dictionaries" href="https://www.collinsdictionary.com/us/browse/">View all dictionaries...</a></div>
+</div>
+<div class="footer_block">
+<ul>
+<li><div class="title">View more</div></li>
+<li><a href="https://www.collinsdictionary.com/api">API</a></li>
+<li><a href="http://www.collinslanguage.com">B2B Partnerships</a></li>
+<li><a href="https://www.collinsdictionary.com/advertising">Advertising</a></li>
+<li><a href="https://www.collinsdictionary.com/wordbanks">Word Banks</a></li>
+<li><a href="https://collins.co.uk/category/English+Language+Teaching/COBUILD+Reference/">Collins COBUILD</a></li>
+<li><a href="https://collins.co.uk/category/English+Language+Teaching/">Collins ELT</a></li>
+<li><a href="https://www.collinsdictionary.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.collinsdictionary.com/contact-us">Contact us</a></li>
+</ul>
+</div>
+<div class="footer_block">
+<ul>
+<li><div class="title"><i class='icon-globe'></i> Languages</div></li>
+<li class="current" >
+<a href="https://www.collinsdictionary.com/us/dictionary/english" title="English Dictionary">
+English
+</a>
+</li>
+<li >
+<a href="https://video.collinsdictionary.com/us/video" title="Video">
+Video
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-thesaurus" title="English Thesaurus">
+Thesaurus
+</a>
+</li>
+<li >
+<a href="https://grammar.collinsdictionary.com/us/easy-learning" title="Accessible guide to grammar and punctuation">
+Grammar
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-french" title="French Dictionary">
+French
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-german" title="German Dictionary">
+German
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-spanish" title="Spanish Dictionary">
+Spanish
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-italian" title="Italian Dictionary">
+Italian
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-chinese" title="Chinese Dictionary">
+Chinese
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-portuguese" title="Portuguese Dictionary">
+Portuguese
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/dictionary/english-hindi" title="Hindi Dictionary">
+Hindi
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/woty" title="WotY">
+WotY
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/scrabble" title="Scrabble">
+Scrabble
+</a>
+</li>
+<li >
+<a href="https://www.collinsdictionary.com/us/promotion" title="Promotion">
+Promotion
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='footer_bottom'>
+<i class='fa fa-copyright'></i> &copy; Collins 2018
+</div>
+</footer> 
+<script type="text/javascript" src="/us/common.js?version=3.1.171" async></script>
+</body>
+</html>
